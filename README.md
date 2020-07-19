@@ -2,4 +2,4 @@
 
 #Follow Below Steps to execute
 1. npm install
-2. npm start <filename>
+2. npm start <filename>  -- pass the file name
